@@ -7,9 +7,9 @@
 A lightweight and completely customizable Code Editor for your imagination!
 
 
-## Demo
+## Coming Soon!⚠️
 
-Insert gif or link to demo
+Still in Work will be releases Soon
 
 
 ## Features
