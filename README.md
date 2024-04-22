@@ -22,7 +22,8 @@ Still in Work will be released Soon!
 
 ## Screenshots
 -Last Updatet 22.4.2022
-![App Screenshot](Screenshot2.png)
+![App Screenshot1](Screenshot2.png)
+![App Screenshot2](Screenshot3.png)
 
 
 ## Installation
