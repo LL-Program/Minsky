@@ -1,5 +1,5 @@
 
-![Logo](LogoMinsky.png)
+![Logo](MinskyWallpaper3.png)
 
 
 
