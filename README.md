@@ -1,5 +1,5 @@
 
-![Logo](MinskyWallpaper3.png)
+![Logo](Page/MinskyWallpaper3.png)
 
 
 
@@ -7,9 +7,9 @@
 A lightweight and completely customizable Code Editor for your imagination!
 
 
-## Coming Soon!⚠️
+## Test Version!⚠️
 
-Still in Work will be released Soon!
+Still in Work and has a lot of bugs!
 
 
 ## Features
@@ -21,17 +21,21 @@ Still in Work will be released Soon!
 
 
 ## Screenshots
--Last Updatet 22.4.2022
-![App Screenshot1](Screenshot2.png)
-![App Screenshot2](Screenshot3.png)
+-Last Updatet 1.7.2024
+![App Screenshot1](Page/Screenshot 2024-07-01 143714.png)
+![App Screenshot2](Page/Screenshot 2024-07-01 143510.png)
 
+## Build or Run
 
-## Installation
-
-Install Minsky with bash or as a app!
+Build Minsky with --- or run it with python directly!
 
 ```bash
-  Comming Soon!
+  > pip install requirements.txt
+  > python src/main.py
+```
+OR
+```bash
+  --Build comming Soon!--
 ```
     
 ## Usage/Examples for Minsky API
@@ -53,9 +57,10 @@ Install Minsky with bash or as a app!
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following people/Companys:
 
 - @LL-program
+- @Gregtechuser
 
 
 
