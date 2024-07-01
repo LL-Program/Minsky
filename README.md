@@ -22,8 +22,8 @@ Still in Work and has a lot of bugs!
 
 ## Screenshots
 -Last Updatet 1.7.2024
-![App Screenshot1](Page/Screenshot 2024-07-01 143714.png)
-![App Screenshot2](Page/Screenshot 2024-07-01 143510.png)
+![App Screenshot1](Page/Screenshot1.png)
+![App Screenshot2](Page/Screenshot2.png)
 
 ## Build or Run
 
