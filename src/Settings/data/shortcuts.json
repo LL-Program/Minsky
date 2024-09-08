@@ -1,0 +1,22 @@
+{
+    "keyShortcuts": [
+      {
+        "name": "Open FileManager Frame",
+        "description": "Opens the FileManager Frame",
+        "shortcut": "Ctrl+Alt+V",
+        "command": "o FileFrame"
+      },
+      {
+        "name": "Open Terminal",
+        "description": "Opens a new terminal window",
+        "shortcut": "Ctrl+Alt+T",
+        "command": "o Terminal"
+      },
+      {
+        "name": "Save File",
+        "description": "Saves the current file in the editor",
+        "shortcut": "Ctrl+S",
+        "command": "s File"
+      }
+    ]
+  }

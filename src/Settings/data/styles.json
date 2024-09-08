@@ -1,0 +1,11 @@
+{
+    "theme" : "Coding Night",
+    "default-theme": 1,
+    "lexer" : "oceanic-theme",
+    "fonts" : [
+        {"Zed Mono Extended": "fonts/zed-mono-extended.ttf"},
+        {"Blanka": "fonts/Blanka.otf"}
+    ],
+    "default-themes": [
+    ]
+} 
