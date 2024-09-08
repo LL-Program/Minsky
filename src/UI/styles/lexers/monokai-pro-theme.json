@@ -1,0 +1,140 @@
+{
+    "theme": {
+        "name": "monokai-pro-theme",
+        "version": "1.0",
+        "syntax": [
+            {
+                "default": {
+                    "color": "#f8f8f2",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "keyword": {
+                    "color": "#f92672",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "classes": {
+                    "color": "#66d9ef",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "functions": {
+                    "color": "#a6e22e",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "function_def": {
+                    "color": "#a6e22e",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "bold",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "string": {
+                    "color": "#e6db74",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "types": {
+                    "color": "#e6db74",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "keyargs": {
+                    "color": "#f92672",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "brackets": {
+                    "color": "#f92672",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            },
+            {
+                "comments": {
+                    "color": "#75715e",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": true
+                    }
+                }
+            },
+            {
+                "constants": {
+                    "color": "#a6e22e",
+                    "paper-color": "#272822",
+                    "font": {
+                        "family": "Fira Code",
+                        "font-size": 12,
+                        "font-weight": "normal",
+                        "italic": false
+                    }
+                }
+            }
+        ]
+    }
+}

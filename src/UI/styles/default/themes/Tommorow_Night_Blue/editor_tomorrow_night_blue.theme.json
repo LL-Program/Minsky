@@ -1,0 +1,31 @@
+{
+    "editor-theme": {
+        "paper_color": "#002451",
+        "indentation_guides_background": "#002451",
+        "indentation_guides_foreground": "#666666",
+        "style_default_background": "#002451",
+        "edge_color": "#003f8e",
+        "whitespace_background": "#003f8e",
+        "whitespace_foreground": "#4f5b66",
+        "selection_background": "#003f8e",
+        "call_tips_background": "#002451",
+        "call_tips_foreground": "#c0c5ce",
+        "call_tips_highlight": "#bf616a",
+        "caret_foreground": "#c0c5ce",
+        "caret_line_background": "#003f8e",
+        "matched_brace_background": "#a3be8c",
+        "matched_brace_foreground": "#f99157",
+        "caret_width": 2,
+        "caret_line_visible": true,
+        "eol_mode": "EolWindows",
+        "eol_visibility": false,
+        "margins_foreground_color": "#ff888888",
+        "margins_background_color": "#282c34",
+        "fold_margin_background_color": "#2c313c",
+        "fold_margin_foreground_color": "#2c313c",
+        "line_number_foreground": "#4f5b66",
+        "line_number_background": "#002451",
+        "fold_indicator_foreground": "#4f5b66",
+        "fold_indicator_background": "#002451"
+    }
+}
