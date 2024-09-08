@@ -23,7 +23,7 @@ Still in Work and has a lot of bugs!
 ## Screenshots
 -Last Updatet 1.7.2024
 ![App Screenshot1](Page/alpha1.png)
-![App Screenshot2](Page/aplha5.png)
+![App Screenshot2](Page/alpha5.png)
 
 ## Build or Run
 
@@ -46,7 +46,7 @@ OR
 ## Documentation
 
 [Documentation](https://linktodocumentation)
-![App Screenshot3](Page/aplha4.png)
+![App Screenshot3](Page/alpha4.png)
 
 
 ## License
