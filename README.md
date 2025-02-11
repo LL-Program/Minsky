@@ -7,9 +7,7 @@
 A lightweight and completely customizable Code Editor for your imagination!
 
 
-## Test Version!⚠️
-
-Still in Work and has a lot of bugs!
+## Project will be revived soon!⚠️
 
 
 ## Features
