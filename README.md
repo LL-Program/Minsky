@@ -34,15 +34,11 @@ It should behave and feel like vscode but with vim and neovim aspects including 
 ## Screenshots
 
 <p align="center">
-  <a href="https://chifengine.netlify.app/">
-    <img src="https://github.com/LL-Program/CHIF-Engine/blob/main/GitPage/Screenshots/drone1.png?raw=true" width="1080" alt="CHIFEngine logo">
-  </a>
+    <img src="Pages/alpha1.png" width="1080" alt="Screenshot Alpha 1">
 </p>
 
 <p align="center">
-  <a href="https://chifengine.netlify.app/">
-    <img src="https://github.com/LL-Program/CHIF-Engine/blob/main/GitPage/Screenshots/sponza1.png?raw=true" width="1080" alt="CHIFEngine logo">
-  </a>
+     <img src="Pages/alpha2.png" width="1080" alt="Screenshot Alpha 2">
 </p>
 
 ---
