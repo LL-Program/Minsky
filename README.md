@@ -25,7 +25,7 @@
 
 ## About Minsky
 
-Minsky is a hobby-project of mine trying to createa simple to configure code editor, which is written in Python, to easily modify it and write plug-ins for it.
+Minsky is a hobby-project of mine trying to create easy to configure code editor, which is written in Python, to easily modify it and write plug-ins for it.
 
 It should behave and feel like vscode but with vim and neovim aspects including theme-cusomizability, to give each editor a personality.
 
