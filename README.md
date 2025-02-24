@@ -34,11 +34,11 @@ It should behave and feel like vscode but with vim and neovim aspects including 
 ## Screenshots
 
 <p align="center">
-    <img src="Pages/alpha1.png" width="1080" alt="Screenshot Alpha 1">
+    <img src="Page/alpha1.png" width="1080" alt="Screenshot Alpha 1">
 </p>
 
 <p align="center">
-     <img src="Pages/alpha2.png" width="1080" alt="Screenshot Alpha 2">
+     <img src="Page/alpha2.png" width="1080" alt="Screenshot Alpha 2">
 </p>
 
 ---
