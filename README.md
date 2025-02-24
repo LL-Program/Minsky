@@ -51,12 +51,12 @@ It should behave and feel like vscode but with vim and neovim aspects including 
 
 ### Download
 
-You can download the latest version of CHIFEngine from:
+You can download the latest version of Minsky from:
 
 - Our [Website (Not done)]()
 - The [Releases Tab](https://github.com/LL-Program/Minsky/releases)
 
-> **Note**: Currently, CHIFEngine supports only Windows x64 systems.
+> **Note**: Currently, Minsky supports only Windows x64 systems.
 
 ### Build Instructions
 
